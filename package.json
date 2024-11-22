@@ -1,10 +1,14 @@
 {
   "name": "@ungap/move-before",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "index.js",
   "module": "index.js",
-  "keywords": ["moveBefore", "fallback", "ponyfill"],
+  "keywords": [
+    "moveBefore",
+    "fallback",
+    "ponyfill"
+  ],
   "author": "Andrea Giammarchi",
   "license": "MIT",
   "description": "Moves a node before another one or append it",
