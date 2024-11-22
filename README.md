@@ -10,4 +10,4 @@ There is no standard way to know if a node can be moved, as opposite of being in
 
 Accordingly, nobody wins so ... why bother? This module simply does that `try/catch` without second thoughts and that's it, promoting reusable code as opposite of finding the same `try/catch` dance all over the Web.
 
-Feel free to ignore it or use it any time you think you have `moveBefore` covered, as it will surprise and backfire if you don't `try/catch` around, that's the staqndard decision.
+Feel free to ignore it or use it any time you think you have `moveBefore` covered, as it will surprise and backfire if you don't `try/catch` around, that's the standard decision.
