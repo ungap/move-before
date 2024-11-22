@@ -1,0 +1,19 @@
+{
+  "name": "@ungap/move-before",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "keywords": ["moveBefore", "fallback", "ponyfill"],
+  "author": "Andrea Giammarchi",
+  "license": "MIT",
+  "description": "Moves a node before another one or append it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/move-before.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ungap/move-before/issues"
+  },
+  "homepage": "https://github.com/ungap/move-before#readme"
+}
